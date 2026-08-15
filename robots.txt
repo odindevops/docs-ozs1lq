@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-sp7vgr.asiabola110.xyz/sitemap.xml
